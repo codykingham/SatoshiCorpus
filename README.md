@@ -1,2 +1,3 @@
 # The Satoshi Corpus
-Documenting Satoshi Nakamoto and fellow cypherpunks
+
+A corpus of Satoshi Nakamoto texts for linguistic analysis.
